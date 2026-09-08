@@ -1,6 +1,6 @@
  Olá! 
 
-<--Sou Gustavo Palonio Tossato, Tecnólogo em Redes de Computadores e Técnico em Eletroeletrônica. Com mais de 14 anos de experiência na área de segurança eletrônica, nos setores público e privado.<br>
+<--Me chamo Gustavo Tossato, sou Tecnólogo em Redes de Computadores e Técnico em Eletroeletrônica. Com mais de 14 anos de experiência na área de segurança eletrônica, nos setores público e privado.<br>
  Estou utilizando este perfil para compartilhar meu portifólio de projetos.-->
 
 <div>
